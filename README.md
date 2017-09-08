@@ -17,5 +17,8 @@ But it has disadvantages as well:
 - doesn't work if light is pointing towards the camera (since the particle normal points towards the camera as well)
 - probably looks bad if the ambient/background color isn't black
 
+
+[Here's a video of it in action.](https://www.youtube.com/watch?v=_OCMemTM0Yc)
+
 ----
 Made with Godot 3.0 alpha1.
