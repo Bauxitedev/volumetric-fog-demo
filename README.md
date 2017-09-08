@@ -5,6 +5,7 @@ Usually, volumetric fog is done as a post processing effect, but here's an examp
 
 This has the following advantages:
 
+- very easy to implement, automatically works with GI if you place a GIProbe around it
 - can easily change the texture of the fog
 - can easily animate the fog, can e.g. apply wind, attractors, and random movement
 
